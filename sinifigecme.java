@@ -25,7 +25,7 @@ public class sinifigecme {
                 break;
             }
         }
-        
+        System.out.println("Turkce notunuz :");
         while(true){
             turkce = input.nextInt();
             if(turkce>100 || turkce<0){
